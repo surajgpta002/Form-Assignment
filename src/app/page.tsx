@@ -7,7 +7,7 @@ import Sidebar from "./practice/Sidebar";
 export default function Home() {
   return (
     <>
-      {/* <Form /> */}
+      <Form />
       <Sidebar/>
     </>
   );
